@@ -19,7 +19,7 @@ public interface App
         public static final String APP_PROP_NAME_SERVER                              = "server";
 
         // public static final String DEFAULT_SERVER = "192.168.137.129:1337";
-        public static final String DEFAULT_SERVER                                    = "bloodhoud.cloudfoundry.com";
+        public static final String DEFAULT_SERVER                                    = "bloodhoud.eu01.aws.af.cm";
 
         // The minimum distance to change Updates in meters
         public static final int    LOCATION_TRACKING_MIN_DISTANCE_CHANGE_FOR_UPDATES = 100;                             // meter
